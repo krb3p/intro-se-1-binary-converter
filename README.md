@@ -37,24 +37,28 @@ One way to think of it is like an odometer: when you hit the last digit in a pos
 It's critical that you can do this by hand before you try to write a program that can do it. Can you predict what the following decimal numbers will be in binary? Click on any one to check your answer.
 
 <details>
-  <summary>10</summary><br>
+  <summary>10</summary>
+  
   `1010`
 </details><br>
 
 <details>
-  <summary>20</summary><br>
+  <summary>20</summary>
+  
   `10100`
 </details><br>
 
 Can you convert these binary numbers back to decimals?
 
 <details>
-  <summary>10110</summary><br>
+  <summary>10110</summary>
+  
   `22`
 </details><br>
 
 <details>
-  <summary>1011</summary><br>
+  <summary>1011</summary>
+  
   `11`
 </details><br>
 
