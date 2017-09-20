@@ -24,7 +24,17 @@ Even though the binary number to represent three objects looks like an "eleven",
 
 One way to think of it is like an odometer: when you hit the last digit in a position, it will flip back to zero, and trigger a turn for the next digit over.
 
-It's critical that you can do this by hand before you try to write a program that can do it. Can you predict what the following decimal numbers will be in binary? Click on any to check your answers.
+###### Decimal odometer
+
+![Traditional Odometer](Odometer.gif)
+
+###### Binary odometer
+
+![Binary Odometer](https://media.giphy.com/media/12eEEIWB4XEt9K/giphy.gif)
+
+### Before you start!
+
+It's critical that you can do this by hand before you try to write a program that can do it. Can you predict what the following decimal numbers will be in binary? Click on any one to check your answer.
 
 <details>
   <summary>10</summary><br>
@@ -48,14 +58,6 @@ Can you convert these binary numbers back to decimals?
   `11`
 </details><br>
 
-
-###### Decimal odometer
-
-![Traditional Odometer](https://media.giphy.com/media/sbmFOOaKLE8H6/giphy.gif)
-
-###### Binary odometer
-
-![Binary Odometer](https://media.giphy.com/media/12eEEIWB4XEt9K/giphy.gif)
 
 ## The Goal
 
